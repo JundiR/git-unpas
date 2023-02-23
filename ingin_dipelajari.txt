@@ -1,0 +1,4 @@
+Yang ingin dipelajari:
+- html, js, css
+- Flutter
+- Java
