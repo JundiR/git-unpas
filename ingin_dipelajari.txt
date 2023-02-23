@@ -2,7 +2,9 @@ Yang ingin dipelajari:
 - html, js, css
 - Flutter
   > selesain playlist
+  > belajar UI
   > cari playlist baru
   > belajar fundamentalnya
 - Java
+  > new toolkit
 - Microservice
