@@ -3,4 +3,6 @@ Yang ingin dipelajari:
 - Flutter
   > selesain playlist
   > cari playlist baru
+  > belajar fundamentalnya
 - Java
+- Microservice
