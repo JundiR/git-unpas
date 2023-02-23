@@ -2,5 +2,6 @@ Yang ingin dipelajari:
 - html, js, css
 - Flutter
   > selesain playlist
-  > cari playlist baru
+  > belajar UI
 - Java
+  > new toolkit
